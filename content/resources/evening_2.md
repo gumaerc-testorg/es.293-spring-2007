@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: Image of a student robot design project.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-293-lego-robotics-spring-2007/ec0395ffb21b451158badae9f1c4b192_evening_2.jpg
+file: /media/courses/es-293-lego-robotics-spring-2007/ec0395ffb21b451158badae9f1c4b192_evening_2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: SP.285
+parent_type: CourseSection
 resourcetype: Image
 title: evening_2.jpg
 uid: ec0395ff-b21b-4511-58ba-dae9f1c4b192

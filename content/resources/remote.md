@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-293-lego-robotics-spring-2007/e2b4fef8235df54e4d4afea277398ea4_remote.jpg
+file: /media/courses/es-293-lego-robotics-spring-2007/e2b4fef8235df54e4d4afea277398ea4_remote.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: SP.285
+parent_type: CourseSection
 resourcetype: Image
 title: remote.jpg
 uid: e2b4fef8-235d-f54e-4d4a-fea277398ea4

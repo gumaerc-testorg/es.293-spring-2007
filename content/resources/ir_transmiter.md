@@ -2,12 +2,16 @@
 content_type: resource
 description: 'Image of a student final project: a Lego robot that chases or flees
   an infrared beacon. View of the infrared transmitter.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-293-lego-robotics-spring-2007/ea38ec08f85f9d7ffe7547077661707c_ir_transmiter.jpg
+file: /media/courses/es-293-lego-robotics-spring-2007/ea38ec08f85f9d7ffe7547077661707c_ir_transmiter.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: SP.285
+parent_type: CourseSection
 resourcetype: Image
 title: ir_transmiter.jpg
 uid: ea38ec08-f85f-9d7f-fe75-47077661707c

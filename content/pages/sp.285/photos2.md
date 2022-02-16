@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: SP.285
+parent_type: CourseSection
 parent_uid: 3ac1aa36-8b07-38f8-f202-a90f68c5443e
 title: 'Project 2: Photos'
 uid: 3b0fecd3-3a51-6f1d-ea02-a20cdf3147ce

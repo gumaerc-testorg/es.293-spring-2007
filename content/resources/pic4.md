@@ -2,12 +2,16 @@
 content_type: resource
 description: 'Image of a student project: a plotter that can navigate to a point as
   accurately as possible, and draw simple objects. Output from the plotter.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-293-lego-robotics-spring-2007/8914289a8b1067527d895cf25bf83ad1_pic4.jpg
+file: /media/courses/es-293-lego-robotics-spring-2007/8914289a8b1067527d895cf25bf83ad1_pic4.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: SP.285
+parent_type: CourseSection
 resourcetype: Image
 title: pic4.jpg
 uid: 8914289a-8b10-6752-7d89-5cf25bf83ad1

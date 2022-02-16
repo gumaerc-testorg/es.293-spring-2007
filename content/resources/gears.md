@@ -4,12 +4,16 @@ description: Image of a student final project to design and program an invertibl
   robot so that it could demonstrate its ability to perform a series of specific movements,
   performing the same movements whether placed rightside-up or upside-down. View of
   the gears.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-293-lego-robotics-spring-2007/3168834a56e3f34f0ea1dfd5e3361b88_gears.jpg
+file: /media/courses/es-293-lego-robotics-spring-2007/3168834a56e3f34f0ea1dfd5e3361b88_gears.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: SP.285
+parent_type: CourseSection
 resourcetype: Image
 title: gears.jpg
 uid: 3168834a-56e3-f34f-0ea1-dfd5e3361b88

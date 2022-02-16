@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: SP.285
+parent_type: CourseSection
 parent_uid: 3ac1aa36-8b07-38f8-f202-a90f68c5443e
 title: 'Project 1: The Claw'
 uid: b5b64eb7-1047-bdd4-d929-b6edc398906f

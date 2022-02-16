@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Image Gallery
 uid: 6643c3f8-8d87-a6da-661a-55e223b1acef
 ---
@@ -8,7 +10,7 @@ This image gallery contains photos of Lego robots left in the course scrap box. 
 
 {{< anchor "2007" >}}{{< /anchor >}}2007 LEGO Robotics
 ------------------------------------------------------
-{{< image-gallery id="6643c3f8-8d87-a6da-661a-55e223b1acef_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/es-293-lego-robotics-spring-2007/" >}}
+{{< image-gallery id="6643c3f8-8d87-a6da-661a-55e223b1acef_nanogallery2" baseUrl="/courses/es-293-lego-robotics-spring-2007/" >}}
 {{< image-gallery-item href="fcbee26af999ef0a38250f5d8f534d9b_0227.jpg" data-ngdesc="A sample gear box with a 1 to 243 gear ratio." text="A sample gear box with a 1 to 243 gear ratio." >}}
 {{< image-gallery-item href="0f135e33b914ae40dc86a0f965f42db6_0229.jpg" data-ngdesc="A six-legged walking robot." text="A six-legged walking robot." >}}
 {{< image-gallery-item href="7eca1d43318faad5fb0d2eb3b75beb77_0230.jpg" data-ngdesc="A six-legged walking robot, from the side, showing the gears that move the legs." text="A six-legged walking robot, from the side, showing the gears that move the legs." >}}

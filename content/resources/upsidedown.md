@@ -4,12 +4,16 @@ description: Image of a student final project to design and program an invertibl
   robot so that it could demonstrate its ability to perform a series of specific movements,
   performing the same movements whether placed rightside-up or upside-down. View of
   the bottom of the robot.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-293-lego-robotics-spring-2007/53022cabf616250a0627371e80977973_upsidedown.jpg
+file: /media/courses/es-293-lego-robotics-spring-2007/53022cabf616250a0627371e80977973_upsidedown.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: SP.285
+parent_type: CourseSection
 resourcetype: Image
 title: upsidedown.jpg
 uid: 53022cab-f616-250a-0627-371e80977973

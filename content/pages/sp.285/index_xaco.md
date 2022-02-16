@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: SP.285
+parent_type: CourseSection
 parent_uid: 3ac1aa36-8b07-38f8-f202-a90f68c5443e
 title: Master/Slave IR Control
 uid: 59180ea3-56a1-8194-eb69-1117c8fae4ea
