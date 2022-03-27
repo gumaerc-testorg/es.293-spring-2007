@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: d8b71cff-52fb-b07c-4797-39f781314cb4
 resourcetype: Document
 title: 'INPUT / OUTPUT: '
 uid: 5a70812e-0003-fe3a-00cb-c0d404ab2821

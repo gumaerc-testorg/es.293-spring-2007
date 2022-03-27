@@ -93,4 +93,4 @@ The signal is detected by the tower, which consists of three directional infrare
 
 {{< tableclose >}}
 
-Click "code" ([C](./resolveuid/a5282be50ae5c190eb88b1d978c7bf9d)) to see the IC code I wrote to make the robot flee or chase the signal. To change from flee to chase you simply reverse the polarity of the motors.
+Click "code" ([C]({{< baseurl >}}/resources/chase)) to see the IC code I wrote to make the robot flee or chase the signal. To change from flee to chase you simply reverse the polarity of the motors.

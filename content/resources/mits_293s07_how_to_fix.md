@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: d8b71cff-52fb-b07c-4797-39f781314cb4
 resourcetype: Document
 title: 'How to Fix Stuff:'
 uid: 4e3b63c9-696b-4d1b-e05e-0ee226d97b80

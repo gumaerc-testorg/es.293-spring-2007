@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: SP.285
 parent_type: CourseSection
+parent_uid: 3ac1aa36-8b07-38f8-f202-a90f68c5443e
 resourcetype: Image
 title: legort.jpg
 uid: 364b67fb-2d4e-6fd1-2614-94d1f7a2d135

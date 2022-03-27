@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: SP.285
 parent_type: CourseSection
+parent_uid: 3ac1aa36-8b07-38f8-f202-a90f68c5443e
 resourcetype: Image
 title: robot_rear.jpg
 uid: 6486d339-3749-f245-1fac-559c8233334d

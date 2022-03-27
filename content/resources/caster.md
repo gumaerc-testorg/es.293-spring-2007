@@ -14,6 +14,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: SP.285
 parent_type: CourseSection
+parent_uid: 3ac1aa36-8b07-38f8-f202-a90f68c5443e
 resourcetype: Image
 title: caster.jpg
 uid: f3d1ab7b-9f65-c599-2f98-724463e2f432

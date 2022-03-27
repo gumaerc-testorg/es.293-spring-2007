@@ -99,8 +99,8 @@ One, two, three, ... infinity
 
 
 Project: write, load, and execute a few simple IC programs on a board (doesn't need to be connected to your robot)  
-Program 1 ([TXT](./resolveuid/25c763de974fc179d7c8d83ee79faa2f))  
-Program 2 ([TXT](./resolveuid/7b6bf8cd843780a3eed41a83ffc7c267))
+Program 1 ([TXT]({{< baseurl >}}/resources/program1))  
+Program 2 ([TXT]({{< baseurl >}}/resources/program2))
 
 Challenge: Build a car that can move over as much of the floor of the Lego robotics lab as possible (using sensors to react to walls, etc.).
 

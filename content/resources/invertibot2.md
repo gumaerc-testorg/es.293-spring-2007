@@ -14,6 +14,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: SP.285
 parent_type: CourseSection
+parent_uid: 3ac1aa36-8b07-38f8-f202-a90f68c5443e
 resourcetype: Image
 title: invertibot2.jpg
 uid: d34bb1b2-0d7b-ed66-c197-93e0aa652e77

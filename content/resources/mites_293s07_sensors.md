@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: d8b71cff-52fb-b07c-4797-39f781314cb4
 resourcetype: Document
 title: Introduction to Sensor Types
 uid: 7740bed1-a607-cc73-f41a-bb5268df2bf1

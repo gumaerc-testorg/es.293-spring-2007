@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: d8b71cff-52fb-b07c-4797-39f781314cb4
 resourcetype: Document
 title: Basic E&M of Motors
 uid: e39d55cf-297a-00cd-a2ae-eac0423b8222

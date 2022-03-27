@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: SP.285
 parent_type: CourseSection
+parent_uid: 3ac1aa36-8b07-38f8-f202-a90f68c5443e
 resourcetype: Image
 title: track1.jpg
 uid: 02ace476-8286-21c6-c8d8-6d303c4e9b0e

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: d8b71cff-52fb-b07c-4797-39f781314cb4
 resourcetype: Document
 title: notes.dvi
 uid: bd8917fb-7f64-7998-96d2-2ee34c864927

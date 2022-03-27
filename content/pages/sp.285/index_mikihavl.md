@@ -31,7 +31,7 @@ I started out as a little claw with lots of gears so that I could open and close
 
 Then, the **big change** came. I got two big wheels in the back part that could drive me forward, and six little ones in the front to be able to turn. **And**, most importantly, I got a light sensor so I was able to **see**!
 
-Having all this inventory, I was supposed to go to a burnt chemical factory and bring out a barrel of unknown chemical content. There were more of us who tried, but what a shame, none of us succeeded. That was a little disappointing (Miki, what did you do to my program ([C](./resolveuid/91f53f1073a32a50657f239efca9111c))?), and my self-esteem went down quite a bit. But there were more days to come and I knew my time was yet to come.
+Having all this inventory, I was supposed to go to a burnt chemical factory and bring out a barrel of unknown chemical content. There were more of us who tried, but what a shame, none of us succeeded. That was a little disappointing (Miki, what did you do to my program ([C]({{< baseurl >}}/resources/first))?), and my self-esteem went down quite a bit. But there were more days to come and I knew my time was yet to come.
 
 The next exciting thing that made its appearance into my life was a remote-control. It was very funny - it could talk to me by sending secret messages that I could read and knew exactly what to do. It required quite a trust to the person holding mentioned remote, a trust that turned out not to always be justified (Miki, Miki, you better stay as a theoretical mathematician, since if you decided to be an engineer, we'd all die miserably). My wheels kept falling off, I was breaking apart every two minutes, my chain was down every day or so, my claw kept getting stuck and broken, and over all, it was a pretty miserable time.
 
@@ -69,4 +69,4 @@ Here is a view from the top.
 
 {{< tableclose >}}
 
-And just for completeness, some of my programming: cd\_buttons ([C](./resolveuid/e5fa22e32755126dd67b9c20133af89f)), infra ([C](./resolveuid/ff49fe339d9696d35bde262b82c13927)).
+And just for completeness, some of my programming: cd\_buttons ([C]({{< baseurl >}}/resources/cd_buttons)), infra ([C]({{< baseurl >}}/resources/infra)).
