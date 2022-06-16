@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: SP.285
@@ -7,21 +8,23 @@ parent_type: CourseSection
 parent_uid: 3ac1aa36-8b07-38f8-f202-a90f68c5443e
 title: Projectile Launcher
 uid: fbc62d3a-ff37-9c99-e4e2-4539d9bbd673
+video_metadata:
+  youtube_id: null
 ---
 
-[SP.285]({{< baseurl >}}/pages/sp.285)
+{{% resource_link 3ac1aa36-8b07-38f8-f202-a90f68c5443e "SP.285" %}}
 
 Chad Keever, Projectile Launcher  
-Kendall McConnel, [Control of a Plotter]({{< baseurl >}}/pages/sp.285/index_kendallm)  
-Jonah Elgart, [Guidance by IR Beacon]({{< baseurl >}}/pages/sp.285/index_bologna)  
-Miki Havlickova, [IR Remote Control]({{< baseurl >}}/pages/sp.285/index_mikihavl)  
-Jessica Bowles-Martinez, [Guidance by Light]({{< baseurl >}}/pages/sp.285/index_jnbm)  
-Matt Seegmiller, [Master/Slave IR Control]({{< baseurl >}}/pages/sp.285/index_xaco)  
-Jitin Asnaani, [Invertible Robot]({{< baseurl >}}/pages/sp.285/index_jitin)
+Kendall McConnel, {{% resource_link 57a2e970-39bf-2e69-1831-a4194ccc949e "Control of a Plotter" %}}  
+Jonah Elgart, {{% resource_link 71bf2a2a-5a80-abb9-6b63-accb8c525add "Guidance by IR Beacon" %}}  
+Miki Havlickova, {{% resource_link 5a413b50-41e0-9e4d-b05a-f275e8a55fac "IR Remote Control" %}}  
+Jessica Bowles-Martinez, {{% resource_link c11bc4ae-844d-f4cc-4b26-d80131ee8878 "Guidance by Light" %}}  
+Matt Seegmiller, {{% resource_link 59180ea3-56a1-8194-eb69-1117c8fae4ea "Master/Slave IR Control" %}}  
+Jitin Asnaani, {{% resource_link 2a995065-ab60-fabb-f9ef-0c9861286f50 "Invertible Robot" %}}
 
 * * *
 
-I'm Chad Keever, MIT class of 2001 and ESG alum/TA. This page is a description of my final project for [SP.285]({{< baseurl >}}/pages/sp.285), a seminar on Robotics and Mechatronics.
+I'm Chad Keever, MIT class of 2001 and ESG alum/TA. This page is a description of my final project for {{% resource_link 3ac1aa36-8b07-38f8-f202-a90f68c5443e "SP.285" %}}, a seminar on Robotics and Mechatronics.
 
 First, a little bit about the class (much of this is quoted from Kendall's page of similar purpose)
 
@@ -38,7 +41,7 @@ Being somewhat geometrically predisposed, the idea that eventually came into my 
 {{< tdopen >}}
 
 
-![Student Lego Project.]({{< resource_file 346aded6-ec23-c23e-a45c-bdb5b9842f50 >}})
+{{< resource 346aded6-ec23-c23e-a45c-bdb5b9842f50 >}}
 
 Winch mechanism for pulling back spring.
 
@@ -47,7 +50,7 @@ Winch mechanism for pulling back spring.
 {{< tdopen >}}
 
 
-![Student Lego Project.]({{< resource_file 023969f0-1ac8-a571-ee79-99bd84333b97 >}})
+{{< resource 023969f0-1ac8-a571-ee79-99bd84333b97 >}}
 
 Trigger mechanism for releasing spring.
 
@@ -56,7 +59,7 @@ Trigger mechanism for releasing spring.
 {{< tdopen >}}
 
 
-![Student Lego Project.]({{< resource_file 2535162a-ef1f-77f4-ee55-159505fef747 >}})
+{{< resource 2535162a-ef1f-77f4-ee55-159505fef747 >}}
 
 Aiming mechanism for adjusting vertical launch angle.
 
@@ -65,7 +68,7 @@ Aiming mechanism for adjusting vertical launch angle.
 {{< tdopen >}}
 
 
-![Student Lego Project.]({{< resource_file 3b11229a-839f-976d-edd2-36cc2962956f >}})
+{{< resource 3b11229a-839f-976d-edd2-36cc2962956f >}}
 
 A picture of the spring prepared for a launch.
 
@@ -76,4 +79,4 @@ A picture of the spring prepared for a launch.
 
 {{< tableclose >}}
 
-![Student Lego Project.]({{< resource_file 200113d6-bb3b-f58d-0377-7bfa25735438 >}})
+{{< resource 200113d6-bb3b-f58d-0377-7bfa25735438 >}}

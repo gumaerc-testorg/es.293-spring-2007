@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Code from a student robotics project.
-file: /media/courses/es-293-lego-robotics-spring-2007/9b8889e8d59f30ffc93cd599e7cbc6de_plotter.c
+file: /courses/es-293-lego-robotics-spring-2007/9b8889e8d59f30ffc93cd599e7cbc6de_plotter.c
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: plotter.c
 uid: 9b8889e8-d59f-30ff-c93c-d599e7cbc6de
 ---
+Code from a student robotics project.
+

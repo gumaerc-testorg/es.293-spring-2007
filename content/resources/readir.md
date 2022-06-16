@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Code snippet: read-ir: record values from the IR sensor and print them.'
-file: /media/courses/es-293-lego-robotics-spring-2007/7fd8360de7c554818b3b370e4550f95f_readir.c
+file: /courses/es-293-lego-robotics-spring-2007/7fd8360de7c554818b3b370e4550f95f_readir.c
 file_type: text/plain
 learning_resource_types:
 - Tools
@@ -13,3 +13,5 @@ resourcetype: Other
 title: readir.c
 uid: 7fd8360d-e7c5-5481-8b3b-370e4550f95f
 ---
+Code snippet: read-ir: record values from the IR sensor and print them.
+

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Code snippet: legocomp: base code for a two-team IR competition.'
-file: /media/courses/es-293-lego-robotics-spring-2007/d97c48d2f3b6c6d3f760d4c0a626778b_legoprog.c
+file: /courses/es-293-lego-robotics-spring-2007/d97c48d2f3b6c6d3f760d4c0a626778b_legoprog.c
 file_type: text/plain
 learning_resource_types:
 - Tools
@@ -13,3 +13,5 @@ resourcetype: Other
 title: legoprog.c
 uid: d97c48d2-f3b6-c6d3-f760-d4c0a626778b
 ---
+Code snippet: legocomp: base code for a two-team IR competition.
+

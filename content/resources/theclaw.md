@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Code from a student robotics project.
-file: /media/courses/es-293-lego-robotics-spring-2007/7ada8178b1b94227e7baa6c0f731d73b_theclaw.c
+file: /courses/es-293-lego-robotics-spring-2007/7ada8178b1b94227e7baa6c0f731d73b_theclaw.c
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: theclaw.c
 uid: 7ada8178-b1b9-4227-e7ba-a6c0f731d73b
 ---
+Code from a student robotics project.
+

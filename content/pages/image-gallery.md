@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This image gallery contains photos of Lego robots left in the course
+  scrap box. Some of them are missing components, and none are attached to their HandyBoards.
+  They are provided to inspire fresh Lego robot construction. At the bottom of the
+  page, links are provided to other photo archives of ESG robots, for further instruction.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Image Gallery
 uid: 6643c3f8-8d87-a6da-661a-55e223b1acef
+video_metadata:
+  youtube_id: null
 ---
 
 This image gallery contains photos of Lego robots left in the course scrap box. Some of them are missing components, and none are attached to their HandyBoards. They are provided to inspire fresh Lego robot construction. At the bottom of the page, links are provided to other photo archives of ESG robots, for further instruction.

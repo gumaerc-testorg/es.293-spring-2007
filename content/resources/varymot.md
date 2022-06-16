@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Code snippet: varymot: use the knob to control the power to motor.'
-file: /media/courses/es-293-lego-robotics-spring-2007/3607925b39f7e9763c325742f012b69f_varymot.c
+file: /courses/es-293-lego-robotics-spring-2007/3607925b39f7e9763c325742f012b69f_varymot.c
 file_type: text/plain
 learning_resource_types:
 - Tools
@@ -13,3 +13,5 @@ resourcetype: Other
 title: varymot.c
 uid: 3607925b-39f7-e976-3c32-5742f012b69f
 ---
+Code snippet: varymot: use the knob to control the power to motor.
+

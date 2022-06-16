@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a description of a final project completed for
+  the course.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -8,6 +10,8 @@ parent_type: CourseSection
 parent_uid: 036c1983-7039-2671-43af-609365ee8161
 title: The Fire-Fighting Robot
 uid: a2c5b1cc-6998-2647-0cb2-23882c9e21c5
+video_metadata:
+  youtube_id: null
 ---
 
 Background
@@ -36,7 +40,7 @@ For the purposes of your design, assume you are designing the robot to fight fir
 
 ### Figure 1:
 
-![floor.gif]({{< resource_file 5bbda4e1-fdcd-d16e-64b4-67c2ef39d99a >}})
+{{< resource 5bbda4e1-fdcd-d16e-64b4-67c2ef39d99a >}}
 
 Floorplan.
 
@@ -51,4 +55,4 @@ Competition
 
 This project is mainly a competition between you and the free time you have/want to spend working on it. The main purpose of the project is to build a robot that accomplishes at least partly the firefighting goals. There may be a competition for those who wish to enter to see whose robot can extinguish the fire most reliably and quickly. More details will be forthcoming.
 
-[Back to projects section]({{< baseurl >}}/pages/projects)
+{{% resource_link 036c1983-7039-2671-43af-609365ee8161 "Back to projects section" %}}

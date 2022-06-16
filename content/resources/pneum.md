@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Code snippet: pneum: simple user-controlled claw robot.'
-file: /media/courses/es-293-lego-robotics-spring-2007/8c52d97b5bfe37e90bfc3ae34bdeb076_pneum.c
+file: /courses/es-293-lego-robotics-spring-2007/8c52d97b5bfe37e90bfc3ae34bdeb076_pneum.c
 file_type: text/plain
 learning_resource_types:
 - Tools
@@ -13,3 +13,5 @@ resourcetype: Other
 title: pneum.c
 uid: 8c52d97b-5bfe-37e9-0bfc-3ae34bdeb076
 ---
+Code snippet: pneum: simple user-controlled claw robot.
+

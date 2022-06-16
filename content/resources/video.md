@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Code snippet: video: use libraries to process video to identify the
   locations of two robots on a board.'
-file: /media/courses/es-293-lego-robotics-spring-2007/bc9502d4e96764c6924d581f21e4c2c1_video.c
+file: /courses/es-293-lego-robotics-spring-2007/bc9502d4e96764c6924d581f21e4c2c1_video.c
 file_type: text/plain
 learning_resource_types:
 - Tools
@@ -14,3 +14,5 @@ resourcetype: Other
 title: video.c
 uid: bc9502d4-e967-64c6-924d-581f21e4c2c1
 ---
+Code snippet: video: use libraries to process video to identify the locations of two robots on a board.
+

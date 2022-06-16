@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section provides information on the robots projects student build
+  over the course of the semester, including project ideas, challenges, and competitions.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
 title: Projects
 uid: 036c1983-7039-2671-43af-609365ee8161
+video_metadata:
+  youtube_id: null
 ---
 
 Students will work on robotics projects of their own choosing over the course of the semester. There is no timeline by which one robot must be finished and another must be started; this is up to the discretion of the students. However, students should expect to build at least three or four functional robots during the semester. There will be a competition at the end of the semester in which students may choose to participate. A rough suggestion of how the projects progress through the semester follows.
@@ -99,8 +103,8 @@ One, two, three, ... infinity
 
 
 Project: write, load, and execute a few simple IC programs on a board (doesn't need to be connected to your robot)  
-Program 1 ([TXT]({{< baseurl >}}/resources/program1))  
-Program 2 ([TXT]({{< baseurl >}}/resources/program2))
+Program 1 ({{% resource_link "25c763de-974f-c179-d7c8-d83ee79faa2f" "TXT" %}})  
+Program 2 ({{% resource_link "7b6bf8cd-8437-80a3-eed4-1a83ffc7c267" "TXT" %}})
 
 Challenge: Build a car that can move over as much of the floor of the Lego robotics lab as possible (using sensors to react to walls, etc.).
 
@@ -153,7 +157,7 @@ For the rest of the semester, students will develop their own robot project, bas
 *   Build a robot that makes use of a tilt sensor to drive right-side up or upside-down, but always drives in the right direction, or a robot that increases power to the motors when climbing a slope.
 *   Build a robot that navigates a maze with wood/cardboard walls (many possible methods).
 
-[Final Project '97]({{< baseurl >}}/pages/projects/final)
+{{% resource_link a2c5b1cc-6998-2647-0cb2-23882c9e21c5 "Final Project '97" %}}
 
 Competitions
 ------------
@@ -170,4 +174,4 @@ If you do a competition, require that the robots be basically done a week early,
 8.  Some competition where multiple robots \_have\_ to work together to get anything done.
 9.  Optionally, the robots have to work with robots on the other team to get anything done.
 
-More Competition Suggestions ([PDF]({{< baseurl >}}/resources/mites_293s07_competitions)) (Courtesy Colin Dillard. Used with permission.)
+More Competition Suggestions ({{% resource_link 46cf570a-9e17-9cde-2b60-fd7036a59468 "PDF" %}}) (Courtesy Colin Dillard. Used with permission.)

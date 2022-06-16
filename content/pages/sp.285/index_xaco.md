@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: SP.285
@@ -7,17 +8,19 @@ parent_type: CourseSection
 parent_uid: 3ac1aa36-8b07-38f8-f202-a90f68c5443e
 title: Master/Slave IR Control
 uid: 59180ea3-56a1-8194-eb69-1117c8fae4ea
+video_metadata:
+  youtube_id: null
 ---
 
-[SP.285]({{< baseurl >}}/pages/sp.285)
+{{% resource_link 3ac1aa36-8b07-38f8-f202-a90f68c5443e "SP.285" %}}
 
-Chad Keever, [Projectile Launcher]({{< baseurl >}}/pages/sp.285/keever_index)  
-Kendall McConnel, [Control of a Plotter]({{< baseurl >}}/pages/sp.285/index_kendallm)  
-Jonah Elgart, [Guidance by IR Beacon]({{< baseurl >}}/pages/sp.285/index_bologna)  
-Miki Havlickova, [IR Remote Control]({{< baseurl >}}/pages/sp.285/index_mikihavl)  
-Jessica Bowles-Martinez, [Guidance by Light]({{< baseurl >}}/pages/sp.285/index_jnbm)  
+Chad Keever, {{% resource_link fbc62d3a-ff37-9c99-e4e2-4539d9bbd673 "Projectile Launcher" %}}  
+Kendall McConnel, {{% resource_link 57a2e970-39bf-2e69-1831-a4194ccc949e "Control of a Plotter" %}}  
+Jonah Elgart, {{% resource_link 71bf2a2a-5a80-abb9-6b63-accb8c525add "Guidance by IR Beacon" %}}  
+Miki Havlickova, {{% resource_link 5a413b50-41e0-9e4d-b05a-f275e8a55fac "IR Remote Control" %}}  
+Jessica Bowles-Martinez, {{% resource_link c11bc4ae-844d-f4cc-4b26-d80131ee8878 "Guidance by Light" %}}  
 Matt Seegmiller, Master/Slave IR Control  
-Jitin Asnaani, [Invertible Robot]({{< baseurl >}}/pages/sp.285/index_jitin)
+Jitin Asnaani, {{% resource_link 2a995065-ab60-fabb-f9ef-0c9861286f50 "Invertible Robot" %}}
 
 * * *
 
@@ -28,14 +31,14 @@ Jitin Asnaani, [Invertible Robot]({{< baseurl >}}/pages/sp.285/index_jitin)
 {{< tdopen >}}
 
 
-![side.jpg]({{< resource_file 21b3b479-653d-272b-6e45-bc968e7b8438 >}})
+{{< resource 21b3b479-653d-272b-6e45-bc968e7b8438 >}}
 
 This is a side view of the tank.
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-For my final project in [SP.285]({{< baseurl >}}/pages/sp.285), I built an infrared controlled tank out of Legos. The basic idea is that one board acts as a slave and takes commands from another board, which acts as master, through IR signals. These signals are sent in 32 bit bursts along some carrier frequency from the master board to the slave board.
+For my final project in {{% resource_link 3ac1aa36-8b07-38f8-f202-a90f68c5443e "SP.285" %}}, I built an infrared controlled tank out of Legos. The basic idea is that one board acts as a slave and takes commands from another board, which acts as master, through IR signals. These signals are sent in 32 bit bursts along some carrier frequency from the master board to the slave board.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +46,7 @@ For my final project in [SP.285]({{< baseurl >}}/pages/sp.285), I built an infra
 {{< tdopen >}}
 
 
-![bottom.jpg]({{< resource_file 23aa6334-f495-cc1f-3afb-482c2892b653 >}})
+{{< resource 23aa6334-f495-cc1f-3afb-482c2892b653 >}}
 
 The differentials of the tank as seen from below.
 
@@ -58,7 +61,7 @@ This tank is driven by two motors, one to control forward and reverse motion and
 {{< tdopen >}}
 
 
-![remote_1.jpg]({{< resource_file 99b14c3d-e3e7-4259-3eb2-e1d92bd12760 >}})
+{{< resource 99b14c3d-e3e7-4259-3eb2-e1d92bd12760 >}}
 
 This is the remote.
 

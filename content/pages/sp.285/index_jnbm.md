@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: SP.285
@@ -7,17 +8,19 @@ parent_type: CourseSection
 parent_uid: 3ac1aa36-8b07-38f8-f202-a90f68c5443e
 title: Guidance by Light
 uid: c11bc4ae-844d-f4cc-4b26-d80131ee8878
+video_metadata:
+  youtube_id: null
 ---
 
-[SP.285]({{< baseurl >}}/pages/sp.285)
+{{% resource_link 3ac1aa36-8b07-38f8-f202-a90f68c5443e "SP.285" %}}
 
-Chad Keever, [Projectile Launcher]({{< baseurl >}}/pages/sp.285/keever_index)  
-Kendall McConnel, [Control of a Plotter]({{< baseurl >}}/pages/sp.285/index_kendallm)  
-Jonah Elgart, [Guidance by IR Beacon]({{< baseurl >}}/pages/sp.285/index_bologna)  
-Miki Havlickova, [IR Remote Control]({{< baseurl >}}/pages/sp.285/index_mikihavl)  
+Chad Keever, {{% resource_link fbc62d3a-ff37-9c99-e4e2-4539d9bbd673 "Projectile Launcher" %}}  
+Kendall McConnel, {{% resource_link 57a2e970-39bf-2e69-1831-a4194ccc949e "Control of a Plotter" %}}  
+Jonah Elgart, {{% resource_link 71bf2a2a-5a80-abb9-6b63-accb8c525add "Guidance by IR Beacon" %}}  
+Miki Havlickova, {{% resource_link 5a413b50-41e0-9e4d-b05a-f275e8a55fac "IR Remote Control" %}}  
 Jessica Bowles-Martinez, Guidance by Light  
-Matt Seegmiller, [Master/Slave IR Control]({{< baseurl >}}/pages/sp.285/index_xaco)  
-Jitin Asnaani, [Invertible Robot]({{< baseurl >}}/pages/sp.285/index_jitin)
+Matt Seegmiller, {{% resource_link 59180ea3-56a1-8194-eb69-1117c8fae4ea "Master/Slave IR Control" %}}  
+Jitin Asnaani, {{% resource_link 2a995065-ab60-fabb-f9ef-0c9861286f50 "Invertible Robot" %}}
 
 * * *
 
@@ -25,18 +28,18 @@ My robot was born (rather painfully with all the sharp edges, according to its m
 
 Now, of course it doesn't like light... so it runs away from it.. sometimes when it senses light all around it goes into twitchy seizure-like spasms while it has flashbacks to previous trauma.
 
-![Student Lego Project.]({{< resource_file 5a417e0e-239e-fed8-2277-14b681571383 >}})
+{{< resource 5a417e0e-239e-fed8-2277-14b681571383 >}}
 
-![Student Lego Project.]({{< resource_file 468ae11e-3d13-6773-4031-513aa4a1ed62 >}})
+{{< resource 468ae11e-3d13-6773-4031-513aa4a1ed62 >}}
 
-![Student Lego Project.]({{< resource_file 211c8805-376b-77c4-3c85-50eee05e4237 >}})
+{{< resource 211c8805-376b-77c4-3c85-50eee05e4237 >}}
 
-![Student Lego Project.]({{< resource_file fc35280d-793f-8600-3af2-8c9c2af3a931 >}})
+{{< resource fc35280d-793f-8600-3af2-8c9c2af3a931 >}}
 
-![Student Lego Project.]({{< resource_file 364b67fb-2d4e-6fd1-2614-94d1f7a2d135 >}})
+{{< resource 364b67fb-2d4e-6fd1-2614-94d1f7a2d135 >}}
 
-![Student Lego Project.]({{< resource_file e6769d85-22b4-6ae3-d387-12c49fad6c35 >}})
+{{< resource e6769d85-22b4-6ae3-d387-12c49fad6c35 >}}
 
-![Student Lego Project.]({{< resource_file 3f7ab352-fabc-eb59-b3fb-4e7ff3cd67be >}})
+{{< resource 3f7ab352-fabc-eb59-b3fb-4e7ff3cd67be >}}
 
-It senses light using light sensor ([JPG]({{< baseurl >}}/resources/legolightsnr)) device things; there are four of them and they make the motors run in a way that takes it away from the pain (no not suicide.. I wasn't able to get a motor that just tears the whole thing apart, also I wouldn't be able to test it out more than once).
+It senses light using light sensor ({{% resource_link 93da4aee-aff0-c679-6fee-b77ebfaeabaa "JPG" %}}) device things; there are four of them and they make the motors run in a way that takes it away from the pain (no not suicide.. I wasn't able to get a motor that just tears the whole thing apart, also I wouldn't be able to test it out more than once).

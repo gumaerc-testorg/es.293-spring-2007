@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Code snippet: music: incomplete re-work of the handyboard music system.'
-file: /media/courses/es-293-lego-robotics-spring-2007/defc736334791ab0a73b9e4ee90a185c_music.c
+file: /courses/es-293-lego-robotics-spring-2007/defc736334791ab0a73b9e4ee90a185c_music.c
 file_type: text/plain
 learning_resource_types:
 - Tools
@@ -13,3 +13,5 @@ resourcetype: Other
 title: music.c
 uid: defc7363-3479-1ab0-a73b-9e4ee90a185c
 ---
+Code snippet: music: incomplete re-work of the handyboard music system.
+
