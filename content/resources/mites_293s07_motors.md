@@ -4,6 +4,7 @@ description: ''
 file: /courses/es-293-lego-robotics-spring-2007/e39d55cf297a00cda2aeeac0423b8222_MITES_293S07_motors.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection

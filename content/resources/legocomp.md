@@ -5,6 +5,7 @@ file: /courses/es-293-lego-robotics-spring-2007/485dc17f7adf7ecb69224dc7166be247
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: legocomp.c
 uid: 485dc17f-7adf-7ecb-6922-4dc7166be247
 ---
 Code snippet: legocomp: base code for a two-team IR competition.
-

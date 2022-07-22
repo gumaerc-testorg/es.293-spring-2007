@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: SP.285
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Image of a student project: a plotter that can navigate to a point as accurately as possible, and draw simple objects. Output from the plotter.
-

@@ -5,6 +5,7 @@ file: /courses/es-293-lego-robotics-spring-2007/c496c37140600f2e85d94e9335f3542f
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: circles.c
 uid: c496c371-4060-0f2e-85d9-4e9335f3542f
 ---
 Code snippet: circles: draw circles on a plotter.
-

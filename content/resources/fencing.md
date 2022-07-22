@@ -5,6 +5,7 @@ file: /courses/es-293-lego-robotics-spring-2007/80b8ebfba8dd7e3dee49e7eee2bb5259
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: fencing.c
 uid: 80b8ebfb-a8dd-7e3d-ee49-e7eee2bb5259
 ---
 Code snippet: fencing: spring-simulation fencing controller.
-

@@ -11,6 +11,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: SP.285
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
   youtube_id: null
 ---
 Image of a student final project to design and program an invertible robot so that it could demonstrate its ability to perform a series of specific movements, performing the same movements whether placed rightside-up or upside-down. View of the bottom of the robot.
-

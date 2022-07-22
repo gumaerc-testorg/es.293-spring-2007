@@ -5,6 +5,7 @@ file: /courses/es-293-lego-robotics-spring-2007/46cf570a9e179cde2b60fd7036a59468
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to Competition Suggestions.
-

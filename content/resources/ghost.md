@@ -6,6 +6,7 @@ file: /courses/es-293-lego-robotics-spring-2007/71e53a93297dc04f893e7535d9672f46
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ghost.c
 uid: 71e53a93-297d-c04f-893e-7535d9672f46
 ---
 Code snippet: ghost: maze robot control, robot bounces off and follow walls.
-

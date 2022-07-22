@@ -5,6 +5,7 @@ file: /courses/es-293-lego-robotics-spring-2007/c3f929ab711415f8e2cfbca3da9bce2e
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: melee.c
 uid: c3f929ab-7114-15f8-e2cf-bca3da9bce2e
 ---
 Code snippet: melee: output ir codes for helping two teamed robots battle.
-

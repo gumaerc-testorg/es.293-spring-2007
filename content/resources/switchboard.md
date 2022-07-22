@@ -5,6 +5,7 @@ file: /courses/es-293-lego-robotics-spring-2007/edcde4c29fad009eabb04b15d6e2f317
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: switchboard.c
 uid: edcde4c2-9fad-009e-abb0-4b15d6e2f317
 ---
 Code snippet: switchboard: control four motors with four potentiometers.
-

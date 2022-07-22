@@ -5,6 +5,7 @@ file: /courses/es-293-lego-robotics-spring-2007/aa6e9ec7379cbbf132fda0706324294a
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: irtest.c
 uid: aa6e9ec7-379c-bbf1-32fd-a0706324294a
 ---
 Code snippet: irtest: demo ir input.
-

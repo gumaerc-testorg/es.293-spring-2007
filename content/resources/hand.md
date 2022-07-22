@@ -5,6 +5,7 @@ file: /courses/es-293-lego-robotics-spring-2007/42673aefb4883887d0dbc1cea261ac47
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hand.c
 uid: 42673aef-b488-3887-d0db-c1cea261ac47
 ---
 Code snippet: hand: grasping hand with a breakbeam sensor.
-

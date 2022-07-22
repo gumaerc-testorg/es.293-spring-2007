@@ -6,6 +6,7 @@ file: /courses/es-293-lego-robotics-spring-2007/b3d41444bdcbb8d898b576cc1e983160
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: recir.c
 uid: b3d41444-bdcb-b8d8-98b5-76cc1e983160
 ---
 Code snippet: rec-ir: use an IR communication system to tell two robots about eachother's position.
-
