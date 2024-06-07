@@ -3,6 +3,7 @@ content_type: resource
 description: 'Code snippet: claw1: open a claw, using a sensor to check when it''s
   fully open.'
 file: /courses/es-293-lego-robotics-spring-2007/7d2132cb07cbd24b339ae23a0209e804_claw1.c
+file_size: 5217
 file_type: text/plain
 learning_resource_types:
 - Tools

@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Code snippet: switchboard: control four motors with four potentiometers.'
 file: /courses/es-293-lego-robotics-spring-2007/edcde4c29fad009eabb04b15d6e2f317_switchboard.c
+file_size: 1694
 file_type: text/plain
 learning_resource_types:
 - Tools

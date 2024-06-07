@@ -3,6 +3,7 @@ content_type: resource
 description: 'Image of a student final project: a Lego robot that uses light sensors
   for guidance. The gears.'
 file: /courses/es-293-lego-robotics-spring-2007/468ae11e3d1367734031513aa4a1ed62_legogears.jpg
+file_size: 91340
 file_type: image/jpeg
 image_metadata:
   caption: ''

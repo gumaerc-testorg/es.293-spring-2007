@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Code snippet: musictmpl: play music with the handyboard, within template.'
 file: /courses/es-293-lego-robotics-spring-2007/9f6600ee25b1645bd4cdab5f71677b0f_musictmpl.c
+file_size: 11159
 file_type: text/plain
 learning_resource_types:
 - Tools
