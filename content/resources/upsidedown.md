@@ -5,6 +5,7 @@ description: Image of a student final project to design and program an invertibl
   performing the same movements whether placed rightside-up or upside-down. View of
   the bottom of the robot.
 file: /courses/es-293-lego-robotics-spring-2007/53022cabf616250a0627371e80977973_upsidedown.jpg
+file_size: 98236
 file_type: image/jpeg
 image_metadata:
   caption: ''

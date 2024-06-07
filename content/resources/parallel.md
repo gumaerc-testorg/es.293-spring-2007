@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Code snippet: parallel: example of multiple processes.'
 file: /courses/es-293-lego-robotics-spring-2007/a91498760d100e8f1e7a1e78d7e74f00_parallel.c
+file_size: 193
 file_type: text/plain
 learning_resource_types:
 - Tools

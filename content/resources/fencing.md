@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Code snippet: fencing: spring-simulation fencing controller.'
 file: /courses/es-293-lego-robotics-spring-2007/80b8ebfba8dd7e3dee49e7eee2bb5259_fencing.c
+file_size: 2428
 file_type: text/plain
 learning_resource_types:
 - Tools

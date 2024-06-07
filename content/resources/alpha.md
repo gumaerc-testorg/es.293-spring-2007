@@ -2,6 +2,7 @@
 content_type: resource
 description: This file is a supporting file for tools section.
 file: /courses/es-293-lego-robotics-spring-2007/52ac4a796a3913a51104c7b48b94cb5e_alpha.c
+file_size: 3123
 file_type: text/plain
 learning_resource_types:
 - Tools

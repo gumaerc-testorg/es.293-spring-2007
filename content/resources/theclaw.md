@@ -2,6 +2,7 @@
 content_type: resource
 description: Code from a student robotics project.
 file: /courses/es-293-lego-robotics-spring-2007/7ada8178b1b94227e7baa6c0f731d73b_theclaw.c
+file_size: 4959
 file_type: text/plain
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

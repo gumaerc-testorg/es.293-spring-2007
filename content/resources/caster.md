@@ -5,6 +5,7 @@ description: Image of a student final project to design and program an invertibl
   performing the same movements whether placed rightside-up or upside-down. View of
   the caster wheel.
 file: /courses/es-293-lego-robotics-spring-2007/f3d1ab7b9f65c5992f98724463e2f432_caster.jpg
+file_size: 86391
 file_type: image/jpeg
 image_metadata:
   caption: ''

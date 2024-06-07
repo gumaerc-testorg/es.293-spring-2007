@@ -3,6 +3,7 @@ content_type: resource
 description: 'Image of a student final project: a Lego robot that uses light sensors
   for guidance. The light sensor.'
 file: /courses/es-293-lego-robotics-spring-2007/93da4aeeaff0c6796feeb77ebfaeabaa_legolightsnr.jpg
+file_size: 54623
 file_type: image/jpeg
 image_metadata:
   caption: ''

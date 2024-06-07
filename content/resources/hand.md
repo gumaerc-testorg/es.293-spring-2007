@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Code snippet: hand: grasping hand with a breakbeam sensor.'
 file: /courses/es-293-lego-robotics-spring-2007/42673aefb4883887d0dbc1cea261ac47_hand.c
+file_size: 1502
 file_type: text/plain
 learning_resource_types:
 - Tools
