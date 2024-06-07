@@ -3,6 +3,7 @@ content_type: resource
 description: 'Code snippet: sample: very simple example of using switches to control
   a robot.'
 file: /courses/es-293-lego-robotics-spring-2007/049f2fc4598925bd949d63a8b5726405_sample.c
+file_size: 1139
 file_type: text/plain
 learning_resource_types:
 - Tools

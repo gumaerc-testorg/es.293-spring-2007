@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/es-293-lego-robotics-spring-2007/4e3b63c9696b4d1be05e0ee226d97b80_MITS_293S07_how_to_fix.pdf
+file_size: 65106
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

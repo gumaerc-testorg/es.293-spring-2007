@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Code snippet: circles: draw circles on a plotter.'
 file: /courses/es-293-lego-robotics-spring-2007/c496c37140600f2e85d94e9335f3542f_circles.c
+file_size: 1106
 file_type: text/plain
 learning_resource_types:
 - Tools

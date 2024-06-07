@@ -3,6 +3,7 @@ content_type: resource
 description: 'Code snippet: rec-ir: use an IR communication system to tell two robots
   about eachother''s position.'
 file: /courses/es-293-lego-robotics-spring-2007/b3d41444bdcbb8d898b576cc1e983160_recir.c
+file_size: 1484
 file_type: text/plain
 learning_resource_types:
 - Tools

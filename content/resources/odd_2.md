@@ -2,6 +2,7 @@
 content_type: resource
 description: Image of a student robot design project.
 file: /courses/es-293-lego-robotics-spring-2007/1f68295b8978171e770779f08aa96f0e_odd_2.jpg
+file_size: 110483
 file_type: image/jpeg
 image_metadata:
   caption: ''

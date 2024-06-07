@@ -3,6 +3,7 @@ content_type: resource
 description: 'Image of a student final project: a robot capable of launching a projectile.
   A picture of the spring prepared for a launch.'
 file: /courses/es-293-lego-robotics-spring-2007/3b11229a839f976dedd236cc2962956f_catapult_launch.jpg
+file_size: 3574
 file_type: image/jpeg
 image_metadata:
   caption: ''

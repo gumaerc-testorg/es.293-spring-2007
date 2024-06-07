@@ -3,6 +3,7 @@ content_type: resource
 description: 'Image of a student project: a plotter that can navigate to a point as
   accurately as possible, and draw simple objects. Output from the plotter.'
 file: /courses/es-293-lego-robotics-spring-2007/8c1052b0903dfd7bf48a68824e2bcaa7_pic3.jpg
+file_size: 18801
 file_type: image/jpeg
 image_metadata:
   caption: ''

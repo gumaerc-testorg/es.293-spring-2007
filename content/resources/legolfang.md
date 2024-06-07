@@ -3,6 +3,7 @@ content_type: resource
 description: 'Image of a student final project: a Lego robot that uses light sensors
   for guidance. Viewed from left angle.'
 file: /courses/es-293-lego-robotics-spring-2007/211c8805376b77c43c8550eee05e4237_legolfang.jpg
+file_size: 71569
 file_type: image/jpeg
 image_metadata:
   caption: ''

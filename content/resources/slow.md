@@ -3,6 +3,7 @@ content_type: resource
 description: 'Code snippet: slow: show how to use the buttons and knobs to control
   a motor.'
 file: /courses/es-293-lego-robotics-spring-2007/e6f177c55bee3a3a46b0c55e1047102c_slow.c
+file_size: 239
 file_type: text/plain
 learning_resource_types:
 - Tools

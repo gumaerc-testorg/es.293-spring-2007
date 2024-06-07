@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Code snippet: bumper: control motor power with the knob.'
 file: /courses/es-293-lego-robotics-spring-2007/9419d80f8a07b21fae3fa4e574e277ee_bumper.c
+file_size: 56
 file_type: text/plain
 learning_resource_types:
 - Tools

@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Code snippet: irtest: demo ir input.'
 file: /courses/es-293-lego-robotics-spring-2007/aa6e9ec7379cbbf132fda0706324294a_irtest.c
+file_size: 123
 file_type: text/plain
 learning_resource_types:
 - Tools

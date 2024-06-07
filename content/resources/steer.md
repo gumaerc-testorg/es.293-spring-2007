@@ -3,6 +3,7 @@ content_type: resource
 description: 'Code snippet: steer: simple handyboard control for a "turn right or
   left" steering robot.'
 file: /courses/es-293-lego-robotics-spring-2007/1539d39f0794ff5adb654a72f46e3a27_steer.c
+file_size: 184
 file_type: text/plain
 learning_resource_types:
 - Tools
