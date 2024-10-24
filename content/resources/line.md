@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Code snippet: line: line-following robot with two downward-facing reflectance
   sensors.'
-file: /courses/es-293-lego-robotics-spring-2007/63de899800fc0c3e6fb32fc9b3ce1cfd_line.c
+file: /ol-ocw-studio-app/courses/es-293-lego-robotics-spring-2007/63de899800fc0c3e6fb32fc9b3ce1cfd_line.c
 file_size: 1752
 file_type: text/plain
 learning_resource_types:
