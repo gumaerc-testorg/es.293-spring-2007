@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Image of a student final project: a Lego robot that chases or flees
   an infrared beacon. View from the rear.'
-file: /courses/es-293-lego-robotics-spring-2007/6486d3393749f2451fac559c8233334d_robot_rear.jpg
+file: /ol-ocw-studio-app/courses/es-293-lego-robotics-spring-2007/6486d3393749f2451fac559c8233334d_robot_rear.jpg
 file_size: 71052
 file_type: image/jpeg
 image_metadata:

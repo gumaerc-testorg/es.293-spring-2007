@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Code snippet: hbexpl: while start_button, use knob to control motor
   3; while stop_botton, use knob to control beeper.'
-file: /courses/es-293-lego-robotics-spring-2007/1dff838c7aec0abc3c1d71ed7c9fceef_hbexpl.c
+file: /ol-ocw-studio-app/courses/es-293-lego-robotics-spring-2007/1dff838c7aec0abc3c1d71ed7c9fceef_hbexpl.c
 file_size: 3508
 file_type: text/plain
 learning_resource_types:

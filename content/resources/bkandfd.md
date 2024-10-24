@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Code snippet: bkandfd: menu program that oscillates motor 3 smoothly
   between full forward and backward.'
-file: /courses/es-293-lego-robotics-spring-2007/fdb93548211158a9a60a28a54314e5de_bkandfd.c
+file: /ol-ocw-studio-app/courses/es-293-lego-robotics-spring-2007/fdb93548211158a9a60a28a54314e5de_bkandfd.c
 file_size: 3375
 file_type: text/plain
 learning_resource_types:
