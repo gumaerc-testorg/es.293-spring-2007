@@ -19,7 +19,7 @@ The Handy Board Technical Reference ([PDF](http://handyboard.com/oldhb/software/
 
 The Official [LEGO® Home Page](http://www.lego.com/)
 
-[2.007 Home Page](/courses/2-007-design-and-manufacturing-i-spring-2009)
+[2.007 Home Page](https://ocw-studio.odl.mit.edu/courses/2-007-design-and-manufacturing-i-spring-2009)
 
 [MIT Leg Lab Home Page](http://www.ai.mit.edu/projects/leglab/)
 
@@ -43,4 +43,4 @@ The Official [LEGO® Home Page](http://www.lego.com/)
 
 [Maxim Datasheets](https://www.ibuttonlink.com/pages/maxim-integrated-products-data-sheets)
 
-[Microchip](http://www.microchip.com/TechDocByProduct.aspx)
+[Microchip](https://www.microchip.com/)
