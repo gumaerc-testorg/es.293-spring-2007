@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Code snippet: cart: robot with front, back, and side sensors, two drive
   motors and a claw.'
-file: /ol-ocw-studio-app/courses/es-293-lego-robotics-spring-2007/8c0dc11e71d4d6f46efe6f77b36e953f_cart.c
+file: /courses/es-293-lego-robotics-spring-2007/8c0dc11e71d4d6f46efe6f77b36e953f_cart.c
 file_size: 5456
 file_type: text/plain
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Code snippet: legocomp: base code for a two-team IR competition.'
-file: /ol-ocw-studio-app/courses/es-293-lego-robotics-spring-2007/d97c48d2f3b6c6d3f760d4c0a626778b_legoprog.c
+file: /courses/es-293-lego-robotics-spring-2007/d97c48d2f3b6c6d3f760d4c0a626778b_legoprog.c
 file_size: 3108
 file_type: text/plain
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Image of a student final project: a robot with infrared remote control.
   Front gears.'
-file: /ol-ocw-studio-app/courses/es-293-lego-robotics-spring-2007/10ae235dd5a87d01b5c969a94954f195_front_geers.jpg
+file: /courses/es-293-lego-robotics-spring-2007/10ae235dd5a87d01b5c969a94954f195_front_geers.jpg
 file_size: 76891
 file_type: image/jpeg
 image_metadata:

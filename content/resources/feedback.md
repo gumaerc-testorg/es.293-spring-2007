@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Code snippet: feedback: control a servo motor with different kinds of
   feedback.'
-file: /ol-ocw-studio-app/courses/es-293-lego-robotics-spring-2007/e1894bb519471d89aa31061f30ffd036_feedback.c
+file: /courses/es-293-lego-robotics-spring-2007/e1894bb519471d89aa31061f30ffd036_feedback.c
 file_size: 929
 file_type: text/plain
 learning_resource_types:

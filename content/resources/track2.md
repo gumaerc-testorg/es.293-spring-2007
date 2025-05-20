@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Model of a factory floor layout for use with Project 2: Industrial Salvage
   Claw.'
-file: /ol-ocw-studio-app/courses/es-293-lego-robotics-spring-2007/349d309de6c08347ede2acd04c981fbb_track2.jpg
+file: /courses/es-293-lego-robotics-spring-2007/349d309de6c08347ede2acd04c981fbb_track2.jpg
 file_size: 61691
 file_type: image/jpeg
 image_metadata:

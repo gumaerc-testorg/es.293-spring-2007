@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Code snippet: ghost: maze robot control, robot bounces off and follow
   walls.'
-file: /ol-ocw-studio-app/courses/es-293-lego-robotics-spring-2007/71e53a93297dc04f893e7535d9672f46_ghost.c
+file: /courses/es-293-lego-robotics-spring-2007/71e53a93297dc04f893e7535d9672f46_ghost.c
 file_size: 2718
 file_type: text/plain
 learning_resource_types:

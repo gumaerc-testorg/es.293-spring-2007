@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Code snippet: both: turn on two motors at once.'
-file: /ol-ocw-studio-app/courses/es-293-lego-robotics-spring-2007/367c714eca84490287377b1904f0a4ca_both.c
+file: /courses/es-293-lego-robotics-spring-2007/367c714eca84490287377b1904f0a4ca_both.c
 file_size: 50
 file_type: text/plain
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image of a student robot design project.
-file: /ol-ocw-studio-app/courses/es-293-lego-robotics-spring-2007/2a5313a361f2993431886e43b1c6e750_evening_1.jpg
+file: /courses/es-293-lego-robotics-spring-2007/2a5313a361f2993431886e43b1c6e750_evening_1.jpg
 file_size: 116554
 file_type: image/jpeg
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Image of a student final project: a Lego robot that uses light sensors
   for guidance. Right rear angle.'
-file: /ol-ocw-studio-app/courses/es-293-lego-robotics-spring-2007/e6769d8522b46ae3d38712c49fad6c35_legortang.jpg
+file: /courses/es-293-lego-robotics-spring-2007/e6769d8522b46ae3d38712c49fad6c35_legortang.jpg
 file_size: 88606
 file_type: image/jpeg
 image_metadata:
