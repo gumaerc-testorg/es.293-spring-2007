@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Code from a student robotics project.
-file: /ol-ocw-studio-app/courses/es-293-lego-robotics-spring-2007/e5fa22e32755126dd67b9c20133af89f_cd_buttons.c
+file: /courses/es-293-lego-robotics-spring-2007/e5fa22e32755126dd67b9c20133af89f_cd_buttons.c
 file_size: 309
 file_type: text/plain
 learning_resource_types: []

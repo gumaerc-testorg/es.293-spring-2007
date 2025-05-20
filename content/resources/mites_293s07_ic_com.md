@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/es-293-lego-robotics-spring-2007/5a70812e0003fe3a00cbc0d404ab2821_MITES_293S07_ic_com.pdf
+file: /courses/es-293-lego-robotics-spring-2007/5a70812e0003fe3a00cbc0d404ab2821_MITES_293S07_ic_com.pdf
 file_size: 56622
 file_type: application/pdf
 learning_resource_types: []

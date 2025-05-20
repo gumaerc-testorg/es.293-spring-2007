@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Code snippet: video: use libraries to process video to identify the
   locations of two robots on a board.'
-file: /ol-ocw-studio-app/courses/es-293-lego-robotics-spring-2007/bc9502d4e96764c6924d581f21e4c2c1_video.c
+file: /courses/es-293-lego-robotics-spring-2007/bc9502d4e96764c6924d581f21e4c2c1_video.c
 file_size: 7331
 file_type: text/plain
 learning_resource_types:

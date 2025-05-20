@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Code from a student robotics project.
-file: /ol-ocw-studio-app/courses/es-293-lego-robotics-spring-2007/9b8889e8d59f30ffc93cd599e7cbc6de_plotter.c
+file: /courses/es-293-lego-robotics-spring-2007/9b8889e8d59f30ffc93cd599e7cbc6de_plotter.c
 file_size: 7405
 file_type: text/plain
 learning_resource_types: []
