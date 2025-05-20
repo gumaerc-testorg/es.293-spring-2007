@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Image of a student final project: an infrared controlled tank made out
   of Legos. This is a side view of the tank.'
-file: /ol-ocw-studio-app/courses/es-293-lego-robotics-spring-2007/21b3b479653d272b6e45bc968e7b8438_side.jpg
+file: /courses/es-293-lego-robotics-spring-2007/21b3b479653d272b6e45bc968e7b8438_side.jpg
 file_size: 99283
 file_type: image/jpeg
 image_metadata:

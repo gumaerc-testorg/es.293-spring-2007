@@ -2,7 +2,7 @@
 content_type: resource
 description: Floorplan of model house used to test robots for the The Fire-Fighting
   Robot project.
-file: /ol-ocw-studio-app/courses/es-293-lego-robotics-spring-2007/5bbda4e1fdcdd16e64b467c2ef39d99a_floor.gif
+file: /courses/es-293-lego-robotics-spring-2007/5bbda4e1fdcdd16e64b467c2ef39d99a_floor.gif
 file_size: 7533
 file_type: image/gif
 image_metadata:

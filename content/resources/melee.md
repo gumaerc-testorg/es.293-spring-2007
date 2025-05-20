@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Code snippet: melee: output ir codes for helping two teamed robots battle.'
-file: /ol-ocw-studio-app/courses/es-293-lego-robotics-spring-2007/c3f929ab711415f8e2cfbca3da9bce2e_melee.c
+file: /courses/es-293-lego-robotics-spring-2007/c3f929ab711415f8e2cfbca3da9bce2e_melee.c
 file_size: 481
 file_type: text/plain
 learning_resource_types:

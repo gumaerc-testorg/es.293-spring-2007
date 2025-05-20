@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Code snippet: claw.alexis: logic for opening a claw fully or a given
   amount.'
-file: /ol-ocw-studio-app/courses/es-293-lego-robotics-spring-2007/93a7133036d83e4f7af028be47f36b9b_clawalexis.c
+file: /courses/es-293-lego-robotics-spring-2007/93a7133036d83e4f7af028be47f36b9b_clawalexis.c
 file_size: 3455
 file_type: text/plain
 learning_resource_types:

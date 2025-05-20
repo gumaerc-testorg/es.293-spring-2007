@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Image of a student final project: a robot with infrared remote control.'
-file: /ol-ocw-studio-app/courses/es-293-lego-robotics-spring-2007/5b940e33a2f097f156027c6df7b984c2_smarty.jpg
+file: /courses/es-293-lego-robotics-spring-2007/5b940e33a2f097f156027c6df7b984c2_smarty.jpg
 file_size: 69038
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Code from a student robotics project.
-file: /ol-ocw-studio-app/courses/es-293-lego-robotics-spring-2007/a5282be50ae5c190eb88b1d978c7bf9d_chase.c
+file: /courses/es-293-lego-robotics-spring-2007/a5282be50ae5c190eb88b1d978c7bf9d_chase.c
 file_size: 3804
 file_type: text/plain
 learning_resource_types: []

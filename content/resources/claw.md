@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Code snippet: claw: control a class with a TV remote control, or with
   four potentiometers.'
-file: /ol-ocw-studio-app/courses/es-293-lego-robotics-spring-2007/87e6d23230f8bbb1ba244483e01e2709_claw.c
+file: /courses/es-293-lego-robotics-spring-2007/87e6d23230f8bbb1ba244483e01e2709_claw.c
 file_size: 2415
 file_type: text/plain
 learning_resource_types:

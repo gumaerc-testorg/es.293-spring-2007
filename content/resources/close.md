@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file is a supporting file for tools section.
-file: /ol-ocw-studio-app/courses/es-293-lego-robotics-spring-2007/ecba186e15b19a254e37b0721fd14cd7_close.c
+file: /courses/es-293-lego-robotics-spring-2007/ecba186e15b19a254e37b0721fd14cd7_close.c
 file_size: 3860
 file_type: text/plain
 learning_resource_types:
