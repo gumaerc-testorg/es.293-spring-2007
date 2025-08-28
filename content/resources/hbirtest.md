@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Code snippet: hbirtest: tool to read IR data and report basic statistics.'
-file: /courses/es-293-lego-robotics-spring-2007/f494e6324e55685ba2459976a21cc319_hbirtest.c
+file: /ol-ocw-studio-app/courses/es-293-lego-robotics-spring-2007/f494e6324e55685ba2459976a21cc319_hbirtest.c
 file_size: 368
 file_type: text/plain
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Sample design for a project to build a motorized Lego "claw" that can
   move up and down and grasp and release objects.
-file: /courses/es-293-lego-robotics-spring-2007/3fa275ebc10f3bcc51ccf54b28f8b2c4_jonah_2.jpg
+file: /ol-ocw-studio-app/courses/es-293-lego-robotics-spring-2007/3fa275ebc10f3bcc51ccf54b28f8b2c4_jonah_2.jpg
 file_size: 109580
 file_type: image/jpeg
 image_metadata:
