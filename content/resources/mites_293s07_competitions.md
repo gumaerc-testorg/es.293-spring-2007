@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to Competition Suggestions.
-file: /courses/es-293-lego-robotics-spring-2007/46cf570a9e179cde2b60fd7036a59468_MITES_293S07_competitions.pdf
+file: /ol-ocw-studio-app/courses/es-293-lego-robotics-spring-2007/46cf570a9e179cde2b60fd7036a59468_MITES_293S07_competitions.pdf
 file_size: 60593
 file_type: application/pdf
 learning_resource_types:

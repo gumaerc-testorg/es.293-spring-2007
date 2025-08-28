@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Code snippet: svtest1: use the sv library to capture.'
-file: /courses/es-293-lego-robotics-spring-2007/e5ce841d459e8d1b05624a8c4b5f6c04_svtest1.c
+file: /ol-ocw-studio-app/courses/es-293-lego-robotics-spring-2007/e5ce841d459e8d1b05624a8c4b5f6c04_svtest1.c
 file_size: 564
 file_type: text/plain
 learning_resource_types:

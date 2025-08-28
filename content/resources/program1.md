@@ -2,7 +2,7 @@
 content_type: resource
 description: Assignment to write, load, and execute a few simple IC programs on a
   board.
-file: /courses/es-293-lego-robotics-spring-2007/25c763de974fc179d7c8d83ee79faa2f_program1.txt
+file: /ol-ocw-studio-app/courses/es-293-lego-robotics-spring-2007/25c763de974fc179d7c8d83ee79faa2f_program1.txt
 file_size: 305
 file_type: text/plain
 learning_resource_types:
