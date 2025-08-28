@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Code snippet: pneum: simple user-controlled claw robot.'
-file: /courses/es-293-lego-robotics-spring-2007/8c52d97b5bfe37e90bfc3ae34bdeb076_pneum.c
+file: /ol-ocw-studio-app/courses/es-293-lego-robotics-spring-2007/8c52d97b5bfe37e90bfc3ae34bdeb076_pneum.c
 file_size: 1680
 file_type: text/plain
 learning_resource_types:
