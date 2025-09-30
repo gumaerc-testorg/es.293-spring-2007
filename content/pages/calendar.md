@@ -180,7 +180,7 @@ Additional Topics
     *   Challenge: Write a feedback program to control a servo motor with maximum accuracy and speed and minimum twitch.
 *   Non-Lego robotics – mechanics:
     *   Explore taxonomy of mechanical components
-    *   Describe (and demo) mechanical clocks ([Clock and Watch Escapement Mechanics](http://www.angelfire.com/ut/horology/escapement.html): escapements in motion)
+    *   Describe (and demo) mechanical clocks ({{% resource_link "277ac7d5-1d6f-4d93-89f6-3c80d2ebadd6" "Clock and Watch Escapement Mechanics" %}}: escapements in motion)
 *   Artificial intelligence and adaptive behavior
 *   Electronic communication
 *   BEAMs

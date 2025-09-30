@@ -24,7 +24,7 @@ Jitin Asnaani, {{% resource_link 2a995065-ab60-fabb-f9ef-0c9861286f50 "Invertibl
 
 * * *
 
-Hi, I'm Jonah Elgart and for my final project in {{% resource_link 3ac1aa36-8b07-38f8-f202-a90f68c5443e "SP.285" %}}, a robotics and mechatronics class taught in [ESG](http://esg.mit.edu/) (Experimental Study Group), I created a Lego robot that chases or flees an infrared beacon.
+Hi, I'm Jonah Elgart and for my final project in {{% resource_link 3ac1aa36-8b07-38f8-f202-a90f68c5443e "SP.285" %}}, a robotics and mechatronics class taught in {{% resource_link "6e775064-2573-46e6-bedb-eee0534bb8f1" "ESG" %}} (Experimental Study Group), I created a Lego robot that chases or flees an infrared beacon.
 
 My robot car is very simple. It has two wheels, each connected to its own motor. The two motors are driven at different speeds to steer the car. The back wheel is mounted on a really cool caster that I built with Eric (one of the instructor dudes).
 
