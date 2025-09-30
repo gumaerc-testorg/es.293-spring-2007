@@ -19,7 +19,7 @@ Labs: 2 sessions / week, 2 hours / session
 
 ## **Format**
 
-This course, as part of the [Experimental Study Group](http://esg.mit.edu/) Seminar Series, offers students the opportunity to participate in a small project-based lab class taught by an MIT upperclassman under the guidance of a faculty supervisor. Student James Rising (B.S. '03 Philosophy) taught this seminar for several years, sometimes in conjunction with others. Seminars taught in this format are all graded Pass/Fail and receive 1/2 of the academic credit assigned to regular academic classes.
+This course, as part of the {{% resource_link "6e775064-2573-46e6-bedb-eee0534bb8f1" "Experimental Study Group" %}} Seminar Series, offers students the opportunity to participate in a small project-based lab class taught by an MIT upperclassman under the guidance of a faculty supervisor. Student James Rising (B.S. '03 Philosophy) taught this seminar for several years, sometimes in conjunction with others. Seminars taught in this format are all graded Pass/Fail and receive 1/2 of the academic credit assigned to regular academic classes.
 
 ## **Description**
 
